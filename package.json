@@ -47,8 +47,8 @@
     "xml2js": "^0.4.17"
   },
   "optionalDependencies": {
-    "abstract-socket": "^2.1.0"
-  },  
+    "abstract-socket": "github:saghul/node-abstractsocket#35b1b1491fabc04899bde5be3428abf5cf9cd528"
+  },
   "devDependencies": {
     "eslint": "^5.0.0",
     "eslint-config-prettier": "^3.0.0",
